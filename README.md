@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+![Screenshot (184)](https://github.com/aryacanil/My-Portfolio/assets/60638399/013c4e8f-3b04-4f15-b89c-de9c7ed5e5e2)
+
+
+Built using:
+
+Front-end library: React
+CSS framework: React-bootstrap
+CSS animations library: Animate.css# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
